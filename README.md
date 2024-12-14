@@ -23,3 +23,4 @@
 
 
 https://tenor.com/view/soccer-football-anime-blue-lock-isagi-yoichi-gif-27440248
+https://discord.com/channels/@me/1234149376511967346/1317536312521130065
