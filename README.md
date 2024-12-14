@@ -1,7 +1,7 @@
 ## Olá, eu sou o Matheus.
 - Atualmente cursando o cirso técnico em Eletrotécnica no *CEFET-MG*.
 <div>
-  <img align="right" alt="Soccer-Football"  height="200" width="400" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
+  <img align="right" alt="Soccer-Football"  height="100" width="200" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
 </div>
 
 <div>
