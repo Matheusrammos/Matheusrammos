@@ -7,6 +7,7 @@
 </div>
 
 <div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrammos&layout=compact)
   <img align="right" alt="Soccer-Football"  height="100" width="200" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
 </div>
     
