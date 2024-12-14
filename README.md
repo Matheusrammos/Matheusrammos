@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrammos&title_color=c70059&theme=dark&layout=compact"/>
+  <img height="107em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrammos&title_color=c70059&theme=dark&layout=compact"/>
   <img align="right" alt="Soccer-Football"  height="100" width="200" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
 </div>
     
