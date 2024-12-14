@@ -3,9 +3,9 @@
 
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusrammos&show_icons=true&theme=dark&title_color=&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusrammos&show_icons=true&theme=dark&title_color=j&include_all_commits=true&count_private=true"/>
 </div>
-
+#c70059
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrammos&layout=compact"/>
   <img align="right" alt="Soccer-Football"  height="100" width="200" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
