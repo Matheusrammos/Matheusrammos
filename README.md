@@ -3,16 +3,19 @@
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusrammos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrammos&layout=compact&langs_count=16&theme=dark"/>
 </div>
+    
 <div style="display: inline_block"><br>
+    
+  <img align="right" alt="Soccer-Football"  height="100" width="400" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://tenor.com/view/soccer-football-anime-blue-lock-isagi-yoichi-gif-27440248">
-  <img align="right" alt="Rafa-yodda" src="https://discord.com/channels/@me/1234149376511967346/1317536312521130065">
-  https://discord.com/channels/@me/1234149376511967346/1317536312521130065
+
+https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif
 
 </div>
+
+
   
   ##
  
@@ -24,6 +27,3 @@
  
 </div>
 
-
-https://tenor.com/view/soccer-football-anime-blue-lock-isagi-yoichi-gif-27440248
-https://discord.com/channels/@me/1234149376511967346/1317536312521130065
