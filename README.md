@@ -1,5 +1,5 @@
 ## Olá, eu sou o Matheus Ramos.
-- Atualmente cursando o cirso técnico em Eletrotécnica no *CEFET-MG*.
+- Atualmente cursando o curso técnico em [Eletrotécnica](https://www.dept.cefetmg.br/eletrotecnica/) no [*CEFET-MG*](https://www.cefetmg.br/) (Brazil).
 
 <div>
   <a href="https://github.com/rafaballerini">
