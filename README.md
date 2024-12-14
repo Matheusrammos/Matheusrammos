@@ -1,12 +1,13 @@
 ## Olá, eu sou o Matheus.
 - Atualmente cursando o cirso técnico em Eletrotécnica no *CEFET-MG*.
-<div>
-  <img align="right" alt="Soccer-Football"  height="100" width="200" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
-</div>
 
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusrammos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+<div>
+  <img alt="Soccer-Football"  height="100" width="200" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
 </div>
     
 <div style="display: inline_block"><br>
