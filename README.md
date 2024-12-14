@@ -1,4 +1,4 @@
-## Olá, eu sou o Matheus Ramos.
+## Olá, meu nome é Matheus Ramos.
 - Atualmente cursando o curso técnico em [Eletrotécnica](https://www.dept.cefetmg.br/eletrotecnica/) no [*CEFET-MG*](https://www.cefetmg.br/) (Brazil).
 
 <div>
