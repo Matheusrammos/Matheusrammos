@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusrammos&show_icons=true&theme=dark&title_color=c70059&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusrammos&show_icons=true&icon_color=c70059&title_color=c70059&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
