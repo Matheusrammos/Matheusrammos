@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <img alt="Soccer-Football"  height="100" width="200" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
+  <img align="right" alt="Soccer-Football"  height="100" width="200" src="https://media1.tenor.com/m/dvt7LAzj8iQAAAAd/soccer-football.gif">
 </div>
     
 <div style="display: inline_block"><br>
