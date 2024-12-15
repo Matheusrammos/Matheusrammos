@@ -20,7 +20,7 @@
   ##
  
 <div> 
-  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheus10213454@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![snake gif](https://github.com/Matheusrammos/Matheusrammos/blob/output/github-contribution-grid-snake.svg)
 </div>
